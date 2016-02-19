@@ -1,1 +1,1 @@
-# E7.1-FrandyJunior
+# app-name

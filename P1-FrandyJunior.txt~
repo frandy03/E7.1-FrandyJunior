@@ -1,0 +1,20 @@
+¿Que es Yeoman?
+
+	Es una aplicación para generar la estructura para un proyecto. 
+	Tiene una amplia gama de generadores, como: generador de 
+	webapp sencilla, generador de Angular, Ember, Wordpress, etc.
+
+Herramientas que lo componen:
+	
+	Yo: Son herramientas que básicamente ayudan a crear
+	el esqueleto del proyecto deseado, existen de muchos
+	tipos para diversos lenguajes.
+	
+	Bower: es el encargado de realizar todas las operaciones 
+	sobre las dependencias de nuestro proyecto.
+
+	Grunt: es una herramienta que automatiza las tareas
+	complicadas, tediosas, repetitivas pero necesarias a
+	 la hora de desarrollar un proyecto
+
+	

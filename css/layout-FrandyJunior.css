@@ -1,0 +1,53 @@
+.container1{
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  justify-content: space-between;
+
+}
+
+.container2{
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  justify-content: space-between;
+
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+  height: 40%;
+}
+
+.container3{
+  display: flex;
+  justify-content: center;
+
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+.container4{
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+  height: 30%;
+}
+
+.container5{
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+  height: 5%;
+}
